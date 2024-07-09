@@ -16,10 +16,11 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
-    void saveFile();
-    void openFile();
+
 
 private:
     Ui::MainWindow *ui;
+    void saveFile();
+    void openFile();
 };
 #endif // MAINWINDOW_H

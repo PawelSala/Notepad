@@ -39,4 +39,3 @@ Notepad is a simple text editor created using C++ and Qt Creator. The applicatio
 - `CMakeLists.txt`: The CMake project file.
 - `mainwindow.ui`: The user interface file created with Qt Designer.
 - `mainwindow.cpp` and `mainwindow.h`: Implementation and declaration of the main application window.
-- `resources.qrc`: The resource file containing icons and other resources used in the application.

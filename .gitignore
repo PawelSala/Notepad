@@ -1,0 +1,28 @@
+# Ignore Qt Creator user settings
+CMakeLists.txt.user
+
+# Build directories
+build/
+debug/
+release/
+
+# Qt specific files
+*.pro.user*
+*.qmake.stash
+*.qmake.cache
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
